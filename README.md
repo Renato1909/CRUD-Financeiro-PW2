@@ -1,3 +1,16 @@
+
+
+https://github.com/user-attachments/assets/6a80f1bf-3d38-425e-b35c-71c37b4ee615
+
+
+
+
+
+
+
+
+
+
 # CRUD Financeiro PW2
 
 Sistema web de controle financeiro pessoal desenvolvido em PHP e MySQL. Implementa CRUD de receitas e despesas, categorias, filtros de consulta e dashboard com saldo e gráfico mensal.
